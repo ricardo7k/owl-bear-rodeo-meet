@@ -4,6 +4,7 @@
 public/manifest_local.json
 public/img/wanted_local.svg
 sak.json
+deployment.json
 
 # Logs
 logs
