@@ -7,6 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@googleworkspace/meet-addons": "^1.2.0"
+    "@googleworkspace/meet-addons": "^1.2.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
   }
 }
