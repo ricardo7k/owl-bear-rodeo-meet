@@ -1,3 +1,10 @@
+#Project Control
+.DS_Store
+.config/
+public/manifest_local.json
+public/img/wanted_local.svg
+sak.json
+
 # Logs
 logs
 *.log

@@ -1,0 +1,12 @@
+{
+  "name": "Owbear OSdS Meet",
+  "description": "",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@googleworkspace/meet-addons": "^1.2.0"
+  }
+}
