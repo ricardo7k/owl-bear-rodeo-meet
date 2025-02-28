@@ -1,16 +1,20 @@
 {
-  "name": "Owbear OSdS Meet",
-  "description": "",
+  "name": "owlbearosds",
+  "description": "This is approximately the simplest possible Meet add-on.",
+  "keywords": [
+    "Google Meet"
+  ],
   "license": "Apache-2.0",
-  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js",
+    "build": "mkdir -p ../dist/owlbearosds && cp src/*.html ../dist/owlbearosds/ && npx webpack"
   },
   "dependencies": {
     "@googleworkspace/meet-addons": "^1.2.0",
-    "ejs": "^3.1.10",
-    "express": "^4.21.2",
-    "path": "^0.12.7",
-    "url": "^0.11.4"
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
   }
 }
