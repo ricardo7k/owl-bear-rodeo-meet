@@ -2,14 +2,14 @@
   "addOns": {
     "common": {
       "name": "Owlbear OsdS - Meet",
-      "logoUrl": "https://owl-bear-rodeo-extention-char-sheet-240580388131.us-central1.run.app/img/wanted.png"
+      "logoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png"
     },
     "meet": {
       "web": {
         "sidePanelUri": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html",
-        "logoUrl": "https://owl-bear-rodeo-extention-char-sheet-240580388131.us-central1.run.app/img/wanted.png",
+        "logoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png",
         "addOnOrigins": [ "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app", "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html", "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/mainstage.html", "https://www.owlbear.rodeo/room/EbePgrr09_pq/TheApishCurse" ],
-        "darkModeLogoUrl": "https://owl-bear-rodeo-extention-char-sheet-240580388131.us-central1.run.app/img/wanted.png"
+        "darkModeLogoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png"
       }
     }
   }
