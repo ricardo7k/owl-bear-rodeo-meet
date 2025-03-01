@@ -6,7 +6,7 @@
     },
     "meet": {
       "web": {
-        "sidePanelUri": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html?dev=true",
+        "sidePanelUri": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html",
         "logoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png", 
         "addOnOrigins": [
           "https://www.owlbear.rodeo",
