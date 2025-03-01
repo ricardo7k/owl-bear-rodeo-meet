@@ -2,7 +2,7 @@
 import { meet } from '@googleworkspace/meet-addons/meet.addons';
 
 const CLOUD_PROJECT_NUMBER = '240580388131';
-const MAIN_STAGE_URL = 'https://www.owlbear.rodeo/room/EbePgrr09_pq/TheApishCurse';
+const MAIN_STAGE_URL = "https://www.owlbear.rodeo/room/EbePgrr09_pq/TheApishCurse";
 
 export async function setUpAddon() { 
   const session = await meet.addon.createAddonSession({

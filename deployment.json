@@ -6,9 +6,15 @@
     },
     "meet": {
       "web": {
-        "sidePanelUri": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html",
-        "logoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png",
-        "addOnOrigins": [ "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app", "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html", "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/mainstage.html", "https://www.owlbear.rodeo/room/EbePgrr09_pq/TheApishCurse" ],
+        "sidePanelUri": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html?dev=true",
+        "logoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png", 
+        "addOnOrigins": [
+          "https://www.owlbear.rodeo",
+          "https://www.owlbear.rodeo/room/EbePgrr09_pq/TheApishCurse",
+          "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app",
+          "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/sidepanel.html",
+          "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/mainstage.html"
+        ],
         "darkModeLogoUrl": "https://owl-bear-rodeo-meet-240580388131.us-central1.run.app/wanted.png"
       }
     }

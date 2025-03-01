@@ -6,6 +6,6 @@ module.exports = {
   output: {
     library: 'owlbearosds',
     path: path.resolve(__dirname, '../dist/owlbearosds'),
-    libraryTarget: 'window'
-  },
+    libraryTarget: 'window' 
+  }  
 };

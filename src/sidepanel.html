@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Meet Add-on Side Panel</title>
+    <title>Meet Add-on Main Stage</title>
     <script type="module" src="./main.js"></script> </head>
 
   <body style="width: 100%; height: 100%; margin: 0">
-    <div>This is the Add-on Side Panel. Only you can see this.</div>
-    <button id="start-activity">Launch Activity in Main Stage.</button>
+    <div>This is the Add-on Main Stage. Everyone in the call can see this.</div>
+    <div>Hello, world!</div>
 
     <script>
       document.body.onload = () => {
-        owlbearosds.setUpAddon();
+        owlbearosds.initializeMainStage();
       };
     </script>
   </body>
